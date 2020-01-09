@@ -1,4 +1,12 @@
-﻿using System;
+﻿/**
+ * Robert McCartney (Seselix)
+ * Made this a few years ago.
+ * This is a simple TUI menu class. Menus look pretty nice in my opinion.
+ * 
+ * Not updating anymore.
+ */
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
